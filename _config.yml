@@ -18,3 +18,5 @@ github_username:  jekyllwriter
 gems: [jekyll-paginate]
 markdown: kramdown
 baseurl: "/notebook"
+
+theme: jekyll-theme-cayman
