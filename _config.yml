@@ -17,6 +17,6 @@ paginate_path: "/page/:num/"
 github_username:  jekyllwriter
 gems: [jekyll-paginate]
 markdown: kramdown
-baseurl: "/notebook"
+baseurl: "/xujiaxi.github.io"
 
 theme: jekyll-theme-slate
