@@ -19,4 +19,4 @@ gems: [jekyll-paginate]
 markdown: kramdown
 baseurl: "/notebook"
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
